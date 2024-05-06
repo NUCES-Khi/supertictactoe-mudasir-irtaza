@@ -16,7 +16,7 @@ How to Run the code?
 As the codes are submitted into .ipynb file.
 
 1-Ensure Python is installed on your system.
-2-Execute the Python script super_tic_tac_toe_gui.py.
+2-Execute the Python script SuperTicTacToewithGUI.ipynb
 3-The game window will appear, allowing you to interact with the GUI and play against the AI opponent.
 4-Main Function: The main function creates an instance of the game GUI and starts the Tkinter event loop.
 Otherwise, you can use google colab online plateform to see execution.
